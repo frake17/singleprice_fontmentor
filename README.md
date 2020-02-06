@@ -1,4 +1,4 @@
-# Frontend Mentor - Single Price Grid Component
+﻿# Frontend Mentor - Single Price Grid Component
 
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
 
@@ -67,3 +67,7 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 "# singleprice_fontmentor" 
+
+---
+permalink: /index.html
+---
