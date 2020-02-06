@@ -2,7 +2,6 @@ body {
     height: 100vh;
     width: 100vh;
     background-color: hsl(204, 43%, 93%);
-    overflow: hidden;
     font-family: "karla", sans-serif;
 }
 
@@ -14,6 +13,7 @@ body {
     left: 60%;
     top: 10%;
     display: block;
+    box-shadow: 5px 10px 50px gray;
 }
 
 .green {
@@ -52,6 +52,7 @@ body {
     position: relative;
     top: 7%;
     left: 60%;
+    box-shadow: 5px 10px 50px gray;
 }
 
 .white {
@@ -95,4 +96,5 @@ span {
     position: relative;
     top: -25.5%;
     left: 100%;
+    box-shadow: 5px 10px 50px gray;
 }
