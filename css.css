@@ -1,0 +1,98 @@
+body {
+    height: 100vh;
+    width: 100vh;
+    background-color: hsl(204, 43%, 93%);
+    overflow: hidden;
+    font-family: "karla", sans-serif;
+}
+
+.box {
+    background-color: white;
+    width: 80%;
+    height: 26%;
+    position: relative;
+    left: 60%;
+    top: 10%;
+    display: block;
+}
+
+.green {
+    color: hsl(179, 62%, 43%);
+    font-size: 20px;
+    font-family: "karla", sans-serif;
+    font-weight: 700;
+    padding-top: 4%;
+    padding-left: 4%;
+}
+
+.lightgreen {
+    padding-left: 4%;
+    color: hsl(71, 73%, 54%);
+}
+
+.gray {
+    color: gray;
+    padding-left: 4%;
+    line-height: 170%;
+}
+
+.gray2 {
+    color: white;
+    padding-left: 7%;
+    font-weight: 400;
+    line-height: 140%;
+    transform: translateY(-7%);
+}
+
+
+.box2 {
+    background-color: hsl(179, 62%, 43%);
+    height: 30%;
+    width: 40%;
+    position: relative;
+    top: 7%;
+    left: 60%;
+}
+
+.white {
+    font-size: 20px;
+    font-family: "karla", sans-serif;
+    font-weight: 700;
+    padding-left: 7%;
+    padding-top: 7%;
+    padding-bottom: 4%;
+    color: white;
+}
+
+span {
+    padding-left: 4%;
+    padding-right: 4%;
+    color: white;
+    font-size: 40px;
+}
+
+.smallwhite {
+    padding-left: 7%;
+    padding-bottom: 7%;
+    color: white;
+}
+
+.border {
+    border: 1px solid hsl(71, 73%, 54%);
+    background-color: hsl(71, 73%, 54%);
+    position: relative;
+    left: 10%;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding: 3% 24%;
+}
+
+.box3 {
+    background-color: hsl(179, 69%, 53%);
+    height: 30%;
+    width: 40%;
+    position: relative;
+    top: -25.5%;
+    left: 100%;
+}
